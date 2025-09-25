@@ -10,4 +10,4 @@ if a == 1:
 elif a == 2: # Else If
     print("The number is equal to 2") # You can have multiple elif statements
 else:
-    print("The number is not equal to 1")
+    print("The number is not equal to 1");
