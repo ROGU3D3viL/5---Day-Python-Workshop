@@ -6,6 +6,7 @@ if days == 5:
         asgn = input("Was Assignment Done? (Yes/No): ")
         attd = input("Was Attendance Given? (Yes/No): ")
         cam = input("Was Camera On? (Yes/No): ")
+        print("---------------------------------------------------")
         if asgn == "Yes" and attd == "Yes" and cam == "Yes":
             if i == 5:
                 print("You are eligible for the certificate...!")
