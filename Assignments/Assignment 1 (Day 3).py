@@ -31,6 +31,8 @@ i = input("Enter icon: ")
 if i.isdigit():
     arr3 = np.full((row,col), int(i))
     print(np.shape(arr3))
+    print(arr3)
 else:
     arr3 = np.full((row,col),i)
     print(np.shape(arr3))
+    print(arr3)
